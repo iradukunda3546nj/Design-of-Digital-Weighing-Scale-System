@@ -1,4 +1,5 @@
 # Design-of-Digital-Weighing-Scale-System
+![Prototype Overview](images/sys.png)
 
 A low-cost, embedded digital weighing scale developed using a 20 kg strain-gauge load cell, HX711 24-bit ADC module, Arduino Uno, I2C LCD display, EEPROM-based calibration storage, and event-driven firmware architecture.
 
